@@ -3,7 +3,7 @@
 client_id = "44d6a08fb5ac341d0f69b6eb210323a4"
 name = "quote-app"
 handle = "quote-app-11"
-application_url = "https://red-rfc-vienna-rotary.trycloudflare.com"
+application_url = "https://salem-yours-huge-continuously.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://red-rfc-vienna-rotary.trycloudflare.com/auth/callback",
-  "https://red-rfc-vienna-rotary.trycloudflare.com/auth/shopify/callback",
-  "https://red-rfc-vienna-rotary.trycloudflare.com/api/auth/callback"
+  "https://salem-yours-huge-continuously.trycloudflare.com/auth/callback",
+  "https://salem-yours-huge-continuously.trycloudflare.com/auth/shopify/callback",
+  "https://salem-yours-huge-continuously.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
